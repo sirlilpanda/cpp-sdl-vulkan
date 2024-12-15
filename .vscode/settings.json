@@ -1,0 +1,8 @@
+{
+    "C_Cpp.default.configurationProvider": "mesonbuild.mesonbuild",
+    "C_Cpp.default.compileCommands": "c:\\Users\\sirli\\Documents\\sdl_cpp\\builddir/compile_commands.json",
+    "files.associations": {
+        "*.txt": "cmake",
+        "chrono": "cpp"
+    }
+}
